@@ -3,7 +3,7 @@ Strict
 
 Module Pub.Glew
 
-ModuleInfo "Version: 1.07"
+ModuleInfo "Version: 1.08"
 ModuleInfo "Author: Milan Ikits, Marcelo Magallon"
 ModuleInfo "License: SGI Free Software License B"
 ModuleInfo "Copyright: Milan Ikits, Marcelo Magallon"
